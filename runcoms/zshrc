@@ -16,3 +16,9 @@ promptinit
 prompt steeef
 
 eval "$(rbenv init -)"
+
+alias wrk2='~/tools/wrk2/wrk'
+
+export PATH=$PATH:$HOME/tools/omnetpp-5.0/bin
+
+export JAVA_HOME=`/usr/libexec/java_home -v1.8`
